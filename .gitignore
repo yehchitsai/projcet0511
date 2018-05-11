@@ -1,2 +1,2 @@
-*.exe       # 忽略所有 xxx.exe 的檔案
-*.o
+main.o       # 忽略所有 xxx.exe 的檔案
+pro0511.exe

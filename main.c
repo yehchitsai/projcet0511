@@ -5,6 +5,7 @@
 
 int main(int argc, char *argv[]) {
 	int init,endpoint=10,summary;
+	// »¼¥[½m²ß 
 	for(init=0,summary=0;init<endpoint;init++)
 		summary=summary+init;
 	printf("summary=%d\n",summary);

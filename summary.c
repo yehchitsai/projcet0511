@@ -1,4 +1,4 @@
-// »¼¥[½m²ß 
+// éåŠ ç·´ç¿’ 
 int summary(int init,int endpoint)
 {
 	int summary;
